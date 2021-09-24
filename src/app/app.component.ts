@@ -10,6 +10,8 @@ export class AppComponent {
   operandoA:number = 0;
   operandoB:number = 0;
   resultado:number = 0;
+  
+  // Comentario
 
   sumar():void{
     this.resultado = this.operandoA + this.operandoB;
