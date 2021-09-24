@@ -14,7 +14,6 @@ export class AppComponent {
   sumar():void{
     this.resultado = this.operandoA + this.operandoB;
   }
-
 }
 
 
